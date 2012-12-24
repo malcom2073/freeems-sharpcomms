@@ -1,0 +1,18 @@
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\bin\Debug\FreeEmsTest.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\bin\Debug\FreeEmsTest.pdb
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\FreeEmsTest.Form1.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\FreeEmsTest.Properties.Resources.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\FreeEmsTest.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\FreeEmsTest\FreeEmsTest\obj\x86\Debug\FreeEmsTest.pdb
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\FreeEmsTest.exe
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\FreeEmsTest.pdb
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\FreeEmsTest.Form1.resources
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\FreeEmsTest.Properties.Resources.resources
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\freeems-sharpcomms\FreeEmsTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\freeems-sharpcomms\FreeEmsTest\bin\Debug\FreeEmsTest.exe
+C:\freeems-sharpcomms\FreeEmsTest\bin\Debug\FreeEmsTest.pdb
